@@ -1,1 +1,1 @@
-worker: python  namu.py
+worker: python namu.py
